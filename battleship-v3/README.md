@@ -1,6 +1,6 @@
 # Basic shape search task
 
-The experimental procedure is described in described in [Gureckis and Markant (2009)](http://gureckislab.org/papers/GureckisMarkantCogSci2009.pdf).
+The experimental procedure is described in [Gureckis and Markant (2009)](http://gureckislab.org/papers/GureckisMarkantCogSci2009.pdf).
 
 
 ## Data format
